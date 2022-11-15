@@ -1,0 +1,19 @@
+.headerHeight{
+    height: 60px;
+}
+.headerFontStyle{
+    font-family: 'Acme', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Playfair Display', serif;
+font-size: 40px;
+padding-bottom: 2px;
+}
+.bgCustomHeader{
+
+    background-color: #242423;
+    color: #f5cb5c;
+}
+
+.card1{
+    background-color: red;
+}
